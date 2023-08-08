@@ -55,7 +55,7 @@
 - [Lines of Code](https://github.com/kjown/CS50P/blob/main/pset6/lines.py)
 - [Pizza Py](https://github.com/kjown/CS50P/tree/main/pset6/pizza)
 - [Scourgify](https://github.com/kjown/CS50P/tree/main/pset6/scourgify)
-- [CS50 P-Shirt]()
+- [CS50 P-Shirt](https://github.com/kjown/CS50P/tree/main/pset6/shirt)
 
 ### Week 7 - [Regular Expressions](https://cs50.harvard.edu/python/2022/weeks/7/)
 - [NUMB3RS]()
