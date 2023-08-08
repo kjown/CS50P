@@ -25,7 +25,7 @@
 - [Meal Time]()
 
 ### [Week 2](/Week%202/) - [Loops](https://cs50.harvard.edu/python/2022/weeks/2/)
-- [camelCase]()
+- [camelCase](https://github.com/kjown/CS50P/blob/main/pset2/camel.py)
 - [Coke Machine]()
 - [Just setting up my twttr]()
 - [Vanity Plates]()
