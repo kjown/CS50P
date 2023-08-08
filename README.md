@@ -24,7 +24,7 @@
 - [Math Interpreter]()
 - [Meal Time]()
 
-### [Week 2]([/Week%202/](https://github.com/kjown/CS50P/tree/main/pset2)) - [Loops](https://cs50.harvard.edu/python/2022/weeks/2/)
+### [Week 2](https://github.com/kjown/CS50P/tree/main/pset2) - [Loops](https://cs50.harvard.edu/python/2022/weeks/2/)
 - [camelCase](https://github.com/kjown/CS50P/blob/main/pset2/camel.py)
 - [Coke Machine](https://github.com/kjown/CS50P/blob/main/pset2/coke.py)
 - [Just setting up my twttr](https://github.com/kjown/CS50P/blob/main/pset2/twttr.py)
