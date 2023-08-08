@@ -53,8 +53,8 @@
 
 ### Week 6 - [File I/O](https://cs50.harvard.edu/python/2022/weeks/6/)
 - [Lines of Code](https://github.com/kjown/CS50P/blob/main/pset6/lines.py)
-- [Pizza Py](https://github.com/kjown/CS50P/blob/main/pset6/pizza.py)
-- [Scourgify](https://github.com/kjown/CS50P/blob/main/pset6/scourgify.py)
+- [Pizza Py](https://github.com/kjown/CS50P/tree/main/pset6/pizza)
+- [Scourgify](https://github.com/kjown/CS50P/tree/main/pset6/scourgify)
 - [CS50 P-Shirt]()
 
 ### Week 7 - [Regular Expressions](https://cs50.harvard.edu/python/2022/weeks/7/)
