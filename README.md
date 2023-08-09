@@ -11,11 +11,11 @@
 
 ## Table of Contents
 ### Week 0 - [Functions, Variables](https://cs50.harvard.edu/python/2022/weeks/0/)
-- [Indoor Voice]()
-- [Playback Speed]()
-- [Making Faces]()
-- [Einstein]()
-- [Tip Calculator]()
+- [Indoor Voice](https://github.com/kjown/CS50P/tree/main/pset0/indoor)
+- [Playback Speed](https://github.com/kjown/CS50P/tree/main/pset0/playback)
+- [Making Faces](https://github.com/kjown/CS50P/tree/main/pset0/faces)
+- [Einstein](https://github.com/kjown/CS50P/tree/main/pset0/einstein)
+- [Tip Calculator](https://github.com/kjown/CS50P/tree/main/pset0/tip)
 
 ### Week 1 - [Conditionals](https://cs50.harvard.edu/python/2022/weeks/1/)
 - [Deep Thought]()
