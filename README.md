@@ -18,11 +18,11 @@
 - [Tip Calculator](https://github.com/kjown/CS50P/tree/main/pset0/tip)
 
 ### Week 1 - [Conditionals](https://cs50.harvard.edu/python/2022/weeks/1/)
-- [Deep Thought]()
-- [Home Federal Savings Bank]()
-- [File Extensions]()
-- [Math Interpreter]()
-- [Meal Time]()
+- [Deep Thought](https://github.com/kjown/CS50P/tree/main/pset1/deep)
+- [Home Federal Savings Bank](https://github.com/kjown/CS50P/tree/main/pset1/bank)
+- [File Extensions](https://github.com/kjown/CS50P/tree/main/pset1/extensions)
+- [Math Interpreter](https://github.com/kjown/CS50P/tree/main/pset1/interpreter)
+- [Meal Time](https://github.com/kjown/CS50P/tree/main/pset1/meal)
 
 ### Week 2 - [Loops](https://cs50.harvard.edu/python/2022/weeks/2/)
 - [camelCase](https://github.com/kjown/CS50P/blob/main/pset2/camel.py)
