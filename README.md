@@ -58,7 +58,7 @@
 - [CS50 P-Shirt](https://github.com/kjown/CS50P/tree/main/pset6/shirt)
 
 ### Week 7 - [Regular Expressions](https://cs50.harvard.edu/python/2022/weeks/7/)
-- [NUMB3RS]()
+- [NUMB3RS](https://github.com/kjown/CS50P/tree/main/pset7/numb3rs)
 - [Watch on YouTube]()
 - [Working 9 to 5]()
 - [Regular, um, Expressions]()
