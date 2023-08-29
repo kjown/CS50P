@@ -59,10 +59,10 @@
 
 ### Week 7 - [Regular Expressions](https://cs50.harvard.edu/python/2022/weeks/7/)
 - [NUMB3RS](https://github.com/kjown/CS50P/tree/main/pset7/numb3rs)
-- [Watch on YouTube]()
-- [Working 9 to 5]()
-- [Regular, um, Expressions]()
-- [Response Validation]()
+- [Watch on YouTube](https://github.com/kjown/CS50P/tree/main/pset7/watch)
+- [Working 9 to 5](https://github.com/kjown/CS50P/tree/main/pset7/working)
+- [Regular, um, Expressions](https://github.com/kjown/CS50P/tree/main/pset7/um)
+- [Response Validation](https://github.com/kjown/CS50P/tree/main/pset7/response)
 
 ### Week 8 - [Object-Oriented Programming](https://cs50.harvard.edu/python/2022/weeks/8)
 - [Seasons of Love]()
