@@ -4,7 +4,6 @@
 </div>
 
 # CS50’s Introduction to Programming with Python
-![Certificate]()
 ### These are my solutions for CS50's Introduction to Programming with Python 2022.
 ### Final Project: []()
 <br/>
